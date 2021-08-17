@@ -1,0 +1,6 @@
+git init
+git add
+git commit -m
+git log
+git checkout to rollback to last point
+git diff
