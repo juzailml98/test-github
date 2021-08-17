@@ -4,3 +4,4 @@ git commit -m
 git log
 git checkout to rollback to last point
 git diff
+git push origin master
